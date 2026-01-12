@@ -7,5 +7,7 @@ public class Main {
             sum += i;
             System.out.println( i + ") Num is " + i + ", sum is " + sum);
         }
+        System.out.println("------------------------");
+        System.out.println("Sum of numbers is " + sum);
     }
 }
